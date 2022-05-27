@@ -1,6 +1,6 @@
-# Laravel
+# Desenvolvimento Web Avançado
 
-Repositório para os cursos sobre Laravel
+Repositório para o curso de Laravel e Vue.js
 
 ## Cursos
 
